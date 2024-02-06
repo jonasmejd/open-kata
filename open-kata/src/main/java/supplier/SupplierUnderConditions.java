@@ -1,3 +1,5 @@
+package supplier;
+
 import java.util.function.Supplier;
 
 public class SupplierUnderConditions<T>  {
