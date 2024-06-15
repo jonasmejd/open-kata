@@ -1,0 +1,130 @@
+{
+  "prices": [
+    {
+      "market": "BR",
+      "symbol": {},
+      "formattedPrice": {},
+      "ean": "3572610280198",
+      "channels": [
+        "WEB",
+        "CHANELAPP",
+        "B-APP",
+        "FA-APP",
+        "CLIENT-DIGITAL"
+      ],
+      "season": "15B",
+      "currency": "BRL",
+      "id": "BRA_BRL_20200522T030000Z_A01112Y0129594305",
+      "erpMarket": "BRA",
+      "startDate": "2020-05-22T03:00:00Z",
+      "pearlData": {
+        "active": true,
+        "createDatetime": "2022-09-07T12:26:49Z",
+        "updateDatetime": "2023-10-05T08:13:22Z",
+        "synchronize": true,
+        "synchronizeDatetime": "2022-09-07T12:26:49Z"
+      },
+      "priceAmount": 44290,
+      "entityType": "FshProductVariant",
+      "entityId": "A01112Y0129594305",
+      "productId": "A01112Y0129594305"
+    },
+    {
+      "market": "BR",
+      "symbol": {},
+      "formattedPrice": {},
+      "ean": "3572610280198",
+      "channels": [
+        "WEB",
+        "CHANELAPP",
+        "B-APP",
+        "FA-APP",
+        "CLIENT-DIGITAL"
+      ],
+      "season": "15B",
+      "currency": "BRL",
+      "id": "BRA_BRL_20201124T030000Z_A01112Y0129594305",
+      "erpMarket": "BRA",
+      "startDate": "2020-11-24T03:00:00Z",
+      "pearlData": {
+        "active": true,
+        "createDatetime": "2022-09-07T15:17:01Z",
+        "updateDatetime": "2023-10-05T08:13:22Z",
+        "synchronize": true,
+        "synchronizeDatetime": "2022-09-07T15:17:01Z"
+      },
+      "priceAmount": 53090,
+      "entityType": "FshProductVariant",
+      "entityId": "A01112Y0129594305",
+      "productId": "A01112Y0129594305"
+    },
+    {
+      "market": "FR",
+      "symbol": {
+        "fr": "€"
+      },
+      "formattedPrice": {
+        "fr": "6 050 €"
+      },
+      "ean": "3572610280198",
+      "channels": [
+        "WEB",
+        "CHANELAPP",
+        "B-APP",
+        "FA-APP",
+        "CLIENT-DIGITAL"
+      ],
+      "season": "21C",
+      "currency": "EUR",
+      "id": "FRA_EUR_20201005T220000Z_A01112Y0129594305",
+      "erpMarket": "FRA",
+      "startDate": "2020-10-05T22:00:00Z",
+      "pearlData": {
+        "active": true,
+        "createDatetime": "2022-09-01T10:48:40Z",
+        "updateDatetime": "2024-02-15T00:08:50Z",
+        "synchronize": true,
+        "synchronizeDatetime": "2022-09-01T10:48:40Z"
+      },
+      "priceAmount": 6050,
+      "entityType": "FshProductVariant",
+      "entityId": "A01112Y0129594305",
+      "productId": "A01112Y0129594305",
+      "defaultPearlLocale": "fr"
+    },
+    {
+      "market": "US",
+      "symbol": {
+        "en_US": "$"
+      },
+      "formattedPrice": {
+        "en_US": "$6,800"
+      },
+      "ean": "3572610280198",
+      "channels": [
+        "WEB",
+        "CHANELAPP",
+        "B-APP",
+        "FA-APP",
+        "CLIENT-DIGITAL"
+      ],
+      "season": "21P",
+      "currency": "USD",
+      "id": "MLD_USD_20210115T050000Z_A01112Y0129594305",
+      "erpMarket": "MLD",
+      "startDate": "2021-01-15T05:00:00Z",
+      "pearlData": {
+        "active": true,
+        "createDatetime": "2022-09-03T11:45:40Z",
+        "updateDatetime": "2024-02-14T04:01:24Z",
+        "synchronize": true,
+        "synchronizeDatetime": "2022-09-03T11:45:40Z"
+      },
+      "priceAmount": 6800,
+      "entityType": "FshProductVariant",
+      "entityId": "A01112Y0129594305",
+      "productId": "A01112Y0129594305",
+      "defaultPearlLocale": "en_US"
+    }
+  ]
+}
