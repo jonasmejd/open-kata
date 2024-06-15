@@ -9,6 +9,9 @@ public class Employee {
     private String firstName;
     private String email;
 
+    public Employee() {
+    }
+
     public Employee(String firstName, String lastName, String birthDate, String email) throws ParseException {
         this.firstName = firstName;
         this.lastName = lastName;

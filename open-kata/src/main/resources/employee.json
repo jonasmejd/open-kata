@@ -1,0 +1,18 @@
+[
+  {
+    "lastName": "John",
+    "firstName": "Doe",
+    "birthDate": {
+      "date": "1982/10/08"
+    },
+    "email": "john.doe@foobar.com"
+  },
+  {
+    "lastName": "Mary",
+    "firstName": "Ann",
+    "birthDate": {
+      "date": "1975/03/11"
+    },
+    "email": "mary.ann@foobar.com"
+  }
+]
